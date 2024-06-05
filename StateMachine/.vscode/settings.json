@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "set": "c",
+        "cfloat": "cpp",
+        "mainstatemachine.h": "c",
+        "mainstatemachine_types.h": "c"
+    }
+}
