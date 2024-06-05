@@ -1,22 +1,26 @@
 1. clone this porject to local enviroment
 
-   ```
-   git clone this_project
-   ```
+```
+git clone this_project
+```
+
 2. install gtest
 
 ```
-2. sudo apt-get install libgtest-dev
+sudo apt-get install libgtest-dev
 ```
 
 3. run the script to get results
 
 ```
-3. cd  StateMachine
-4. bash ./run.sh
+cd  StateMachine
+bash ./run.sh
 ```
 
+```
 the unit tests results will show up in terminal
+```
+
 
 4. generate the unit test report
 
@@ -30,3 +34,8 @@ the unit tests results will show up in terminal
    ```
    bash ./generate.sh
    ```
+5. The results should be like:
+
+   ![results results](./StateMachine/results/result.png)
+
+   ![results results](./StateMachine/results/report.png)
